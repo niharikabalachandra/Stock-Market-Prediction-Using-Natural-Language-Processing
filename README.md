@@ -52,17 +52,17 @@ It was also challenging to find more data. The dataset available to use was from
 Road block 3: 
 While we put the dataset for our SVM model, there were quite a few errors it kept throwing and one of them being NaN values and the number of cores we used to train our model. We used all the 4 cores to run our algorithm in parallel for faster execution. 
 
-Future work
+## Future work
 This project leaves room for future work and ways to accomplish them: 
 The number of features used in the data set can be expanded. Right now we have gathered the top 25 News headlines, It is important to have more features that help the model learn better. 
 We are looking at the stock of one company. We can expand it to work for multiple companies at once and we can also include real time- time series analysis. 
 Perform multi class classification for various parameters of stock trading.
 
-Appendix: Code
+## Appendix: Code
 All the source files used in this project can be found at: https://github.com/niharikabalachandra/Stock-Market-Prediction-Using-Natural-Language-Processing 
 
 
-References
+## References
 
 F. Xu and V. Keelj, "Collective Sentiment Mining of Microblogs in 24-Hour Stock Price Movement Prediction," 2014 IEEE 16th Conference on Business Informatics, Geneva, 2014, pp. 60-67. doi: 10.1109/CBI.2014.37
 
